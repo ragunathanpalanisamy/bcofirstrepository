@@ -4,6 +4,6 @@ p.one {
   }
   
   p.two {
-    border-style: solid;
+    border-style:dotted ;
     border-width: medium;
   }
