@@ -11,3 +11,8 @@ p.one {
     border-style:dotted ;
     border-width: medium;
   }
+
+  p.four {
+    border-style:dotted ;
+    border-width: medium;
+  }
